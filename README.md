@@ -5,7 +5,7 @@ This project demonstrates how FreeRTOS is used to manage multiple tasks accessin
 ---
 
 ## **Diagram Task**
-
+https://drive.google.com/file/d/1BsYlWBv_lIHqVPYPp2pet7b479pBsCVv/view?usp=sharing
 ---
 
 ## **Required Hardware**
@@ -56,7 +56,7 @@ This project demonstrates how FreeRTOS is used to manage multiple tasks accessin
 ---
 
 ## **Hardware Overview**
-
+https://drive.google.com/file/d/16Y04Cxs3r6Ddw4P349TiRfD-AzsrOiKe/view?usp=sharing
 
 ---
 
