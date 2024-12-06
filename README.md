@@ -61,4 +61,4 @@ This project demonstrates how FreeRTOS is used to manage multiple tasks accessin
 ---
 
 ## **Demo Video**
-
+https://drive.google.com/file/d/1FiC5l4lBiK5Kw7IRXF-mAMbihvpTKphv/view?usp=sharing
